@@ -6,3 +6,4 @@
 #### 4> now move to root dir and run node index.js
 #### 5> open http://locahost:4000/login in browser
 #### *make sure to change db url in root--> config --> Myurl.js
+#### or you can check this live at https://chat-int.herokuapp.com/login
